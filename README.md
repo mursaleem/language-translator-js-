@@ -14,24 +14,26 @@ To run this code you need node.js install on machine and run "serve" command fro
 API call translate in clientTranslator.js file you can replace with any api to translate there few options: 
 Here are some free APIs you can use for language translation:
 
-LibreTranslate (libretranslate.com)
+##Here are some free APIs you can use for language translation:
 
-## MyMemory Translation API (mymemory.translated.net)
+1.LibreTranslate (libretranslate.com)
 Open-source and self-hostable
 Free for limited usage (rate limits apply)
 Supports multiple languages
 
-## Google Translate API (Free Tier) (cloud.google.com/translate)
+2.MyMemory Translation API (mymemory.translated.net)
 Provides free translation with a limit (usually 1000 words/day)
 Uses a mix of machine and human translations
 
-
-## Microsoft Translator API (Free Tier) (portal.azure.com)
+3.Google Translate API (Free Tier) (cloud.google.com/translate)
 Free for up to 500,000 characters per month
 High-quality neural machine translation
 
-
-## DeepL API (Free Tier) (deepl.com/pro-api)
+4.Microsoft Translator API (Free Tier) (portal.azure.com)
 Free tier includes 2 million characters per month
 Supports text and speech translation
+
+5.DeepL API (Free Tier) (deepl.com/pro-api)
+Limited free tier with high-quality translations
+Supports fewer languages than Google Translate
 
